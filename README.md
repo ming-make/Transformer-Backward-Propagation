@@ -27,6 +27,8 @@ Transformer_Backward_Propagation
 	--README.md
 ```
 
+You can test the implementation of back propagation by running the commented code at the bottom of each python file.
+
 ### Finished
 
 - [x] FFN Layer
