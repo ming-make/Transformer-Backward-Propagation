@@ -15,16 +15,16 @@ numpy==1.22.3
 
 ```
 Transformer_Backward_Propagation
-	--Back Propagation
-		--.idea
-		--_pycache_
-		--basic_layer.py
-		--Encoder.py
-		--FFN.py
-		--LayerNorm.py
-		--MultiHead.py
-	--LISENCE
-	--README.md
+|---------Back Propagation
+|	  |-------.idea
+|	  |-------_pycache_
+|	  |-------basic_layer.py
+|	  |-------Encoder.py
+|	  |-------FFN.py
+|	  |-------LayerNorm.py
+|	  |-------MultiHead.py
+|---------LISENCE
+|---------README.md
 ```
 
 You can test the implementation of back propagation by running the commented code at the bottom of each python file.
