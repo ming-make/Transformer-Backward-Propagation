@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is an implementation of backward propagation of Transformer by Pytorch based on the paper: *Attention is all you need*.
+This is an implementation of backward propagation of Transformer by Pytorch w/Python3.8 based on the paper: *Attention is all you need*.
 
 ### Requirements
 
@@ -14,17 +14,20 @@ numpy==1.22.3
 ### Project Structure
 
 ```
-Transformer_Backward_Propagation
-|---------Back Propagation
-|	  |-------.idea
-|	  |-------_pycache_
-|	  |-------basic_layer.py
-|	  |-------Encoder.py
-|	  |-------FFN.py
-|	  |-------LayerNorm.py
-|	  |-------MultiHead.py
-|---------LISENCE
-|---------README.md
+.
+|-- Back_Propagation
+|   |-- Encoder.py
+|   |-- FFN.py
+|   |-- LayerNorm.py
+|   |-- MultiHead.py
+|   |-- __pycache__
+|   |   |-- FFN.cpython-38.pyc
+|   |   |-- LayerNorm.cpython-38.pyc
+|   |   `-- MultiHead.cpython-38.pyc
+|   |-- basic_layer.py
+|   `-- requirements.txt
+|-- LICENSE
+|-- README.md
 ```
 
 You can test the implementation of back propagation by running the commented code at the bottom of each python file.
