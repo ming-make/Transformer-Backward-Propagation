@@ -7,7 +7,7 @@ This is an implementation of backward propagation of Transformer by Pytorch w/Py
 ### Requirements
 
 ```
-torch==1.11.0
+torch==1.13.1
 numpy==1.22.3
 ```
 
